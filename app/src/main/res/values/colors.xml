@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_unpressed">#330D69A6</color>
+    <color name="button_pressed">#660D69A6</color>
+    <color name="color_all_time">#C20E41</color>
+    <color name="color_daily">#004499</color>
+    <color name="color_primary">#ff9800</color>
+    <color name="primary">#ff9800</color>
+    <color name="never">#212121</color>
+    <color name="gonna">#ff5722</color>
+    <color name="let">#ff9800</color>
+    <color name="AniBackColor">#ff9800</color>
+    <color name="AniForeColor">#ff9800</color>
+    <color name="CircleSmaller">#ff9800</color>
+
+    <color name="you">#FFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>
